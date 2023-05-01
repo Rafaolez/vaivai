@@ -5,3 +5,9 @@ img{
 h1, h2{
     font-size: 100px;
 }
+button{
+    width: 700px;
+    height: 800px;
+     font-size: 100px;
+}
+
